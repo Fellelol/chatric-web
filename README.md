@@ -1,0 +1,2 @@
+# chatric-web
+Static Website
